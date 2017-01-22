@@ -37,3 +37,6 @@
 [submodule "wreathe-charselect"]
 	path = wreathe-charselect
 	url = https://github.com/ethus3h/wreathe-charselect.git
+[submodule "wreathe-file-manager"]
+	path = wreathe-file-manager
+	url = https://github.com/ethus3h/wreathe-file-manager.git
