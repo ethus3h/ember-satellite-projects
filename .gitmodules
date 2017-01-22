@@ -19,3 +19,6 @@
 [submodule "ember-web-site-snapshots"]
 	path = ember-web-site-snapshots
 	url = https://github.com/ethus3h/ember-web-site-snapshots.git
+[submodule "futuramerlin-web-toolkit"]
+	path = futuramerlin-web-toolkit
+	url = https://github.com/ethus3h/futuramerlin-web-toolkit.git
