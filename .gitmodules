@@ -52,3 +52,6 @@
 [submodule "wreathe-office-resources"]
 	path = wreathe-office-resources
 	url = https://github.com/ethus3h/wreathe-office-resources.git
+[submodule "wreathe-overlay"]
+	path = wreathe-overlay
+	url = https://github.com/ethus3h/wreathe-overlay.git
