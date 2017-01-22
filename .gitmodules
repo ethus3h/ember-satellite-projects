@@ -13,3 +13,6 @@
 [submodule "crystallize"]
 	path = crystallize
 	url = https://github.com/ethus3h/crystallize.git
+[submodule "ember-retired-repositories"]
+	path = ember-retired-repositories
+	url = https://github.com/ethus3h/ember-retired-repositories.git
