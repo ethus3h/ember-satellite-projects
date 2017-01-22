@@ -40,3 +40,6 @@
 [submodule "wreathe-file-manager"]
 	path = wreathe-file-manager
 	url = https://github.com/ethus3h/wreathe-file-manager.git
+[submodule "wreathe-icons"]
+	path = wreathe-icons
+	url = https://github.com/ethus3h/wreathe-icons.git
