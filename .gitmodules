@@ -46,3 +46,6 @@
 [submodule "wreathe-kernel"]
 	path = wreathe-kernel
 	url = https://github.com/ethus3h/wreathe-kernel.git
+[submodule "wreathe-media-resources"]
+	path = wreathe-media-resources
+	url = https://github.com/ethus3h/wreathe-media-resources.git
