@@ -67,3 +67,6 @@
 [submodule "wreathe-typefaces-redist"]
 	path = wreathe-typefaces-redist
 	url = https://github.com/ethus3h/wreathe-typefaces-redist.git
+[submodule "xulrunner"]
+	path = xulrunner
+	url = https://github.com/ethus3h/xulrunner.git
