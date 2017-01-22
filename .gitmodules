@@ -64,3 +64,6 @@
 [submodule "wreathe-typeface-family"]
 	path = wreathe-typeface-family
 	url = https://github.com/ethus3h/wreathe-typeface-family.git
+[submodule "wreathe-typefaces-redist"]
+	path = wreathe-typefaces-redist
+	url = https://github.com/ethus3h/wreathe-typefaces-redist.git
