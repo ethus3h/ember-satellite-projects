@@ -61,3 +61,6 @@
 [submodule "wreathe-package-db"]
 	path = wreathe-package-db
 	url = https://github.com/ethus3h/wreathe-package-db.git
+[submodule "wreathe-typeface-family"]
+	path = wreathe-typeface-family
+	url = https://github.com/ethus3h/wreathe-typeface-family.git
