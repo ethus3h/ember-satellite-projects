@@ -49,3 +49,6 @@
 [submodule "wreathe-media-resources"]
 	path = wreathe-media-resources
 	url = https://github.com/ethus3h/wreathe-media-resources.git
+[submodule "wreathe-office-resources"]
+	path = wreathe-office-resources
+	url = https://github.com/ethus3h/wreathe-office-resources.git
