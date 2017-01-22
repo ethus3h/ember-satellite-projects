@@ -31,3 +31,6 @@
 [submodule "warcdealer"]
 	path = warcdealer
 	url = https://github.com/ethus3h/warcdealer.git
+[submodule "wreathe-backgrounds"]
+	path = wreathe-backgrounds
+	url = https://github.com/ethus3h/wreathe-backgrounds.git
