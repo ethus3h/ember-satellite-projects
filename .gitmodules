@@ -34,3 +34,6 @@
 [submodule "wreathe-backgrounds"]
 	path = wreathe-backgrounds
 	url = https://github.com/ethus3h/wreathe-backgrounds.git
+[submodule "wreathe-charselect"]
+	path = wreathe-charselect
+	url = https://github.com/ethus3h/wreathe-charselect.git
