@@ -1,3 +1,0 @@
-[submodule "build/onscreen-keyboard/onboard-emoji"]
-	path = build/onscreen-keyboard/onboard-emoji
-	url = https://github.com/qnub/onboard-emoji.git

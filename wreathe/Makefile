@@ -1,2 +1,0 @@
-all:
-	build/build.sh
