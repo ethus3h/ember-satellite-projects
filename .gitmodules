@@ -7,3 +7,6 @@
 [submodule "BeHeMMOth"]
 	path = BeHeMMOth
 	url = https://github.com/ethus3h/BeHeMMOth.git
+[submodule "compiz-extra-snowflake-textures"]
+	path = compiz-extra-snowflake-textures
+	url = https://github.com/ethus3h/compiz-extra-snowflake-textures.git
