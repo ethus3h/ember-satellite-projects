@@ -1,0 +1,3 @@
+[submodule "wreathe"]
+	path = wreathe
+	url = https://github.com/ethus3h/wreathe.git
