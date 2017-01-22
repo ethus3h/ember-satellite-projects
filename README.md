@@ -1,0 +1,1 @@
+# ember-satellite-projects
