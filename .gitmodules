@@ -55,3 +55,6 @@
 [submodule "wreathe-overlay"]
 	path = wreathe-overlay
 	url = https://github.com/ethus3h/wreathe-overlay.git
+[submodule "wreathe-overlays-redist"]
+	path = wreathe-overlays-redist
+	url = https://github.com/ethus3h/wreathe-overlays-redist.git
