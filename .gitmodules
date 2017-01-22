@@ -43,3 +43,6 @@
 [submodule "wreathe-icons"]
 	path = wreathe-icons
 	url = https://github.com/ethus3h/wreathe-icons.git
+[submodule "wreathe-kernel"]
+	path = wreathe-kernel
+	url = https://github.com/ethus3h/wreathe-kernel.git
