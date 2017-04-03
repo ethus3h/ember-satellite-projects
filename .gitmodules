@@ -73,3 +73,6 @@
 [submodule "personal-retired-repositories"]
 	path = personal-retired-repositories
 	url = https://github.com/ethus3h/personal-retired-repositories.git
+[submodule "jdownloader"]
+	path = jdownloader
+	url = https://github.com/ethus3h/jdownloader.git
