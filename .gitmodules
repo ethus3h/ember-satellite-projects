@@ -76,3 +76,6 @@
 [submodule "jdownloader"]
 	path = jdownloader
 	url = https://github.com/ethus3h/jdownloader.git
+[submodule "unicode-docs"]
+	path = unicode-docs
+	url = https://github.com/ethus3h/unicode-docs.git
