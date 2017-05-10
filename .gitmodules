@@ -79,3 +79,6 @@
 [submodule "unicode-docs"]
 	path = unicode-docs
 	url = https://github.com/ethus3h/unicode-docs.git
+[submodule "ember-shared"]
+	path = ember-shared
+	url = https://github.com/ethus3h/ember-shared.git
