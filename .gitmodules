@@ -82,3 +82,6 @@
 [submodule "ember-shared"]
 	path = ember-shared
 	url = https://github.com/ethus3h/ember-shared.git
+[submodule "mail"]
+	path = mail
+	url = https://github.com/ethus3h/mail.git
