@@ -22,9 +22,6 @@
 [submodule "futuramerlin-web-toolkit"]
 	path = futuramerlin-web-toolkit
 	url = https://github.com/ethus3h/futuramerlin-web-toolkit.git
-[submodule "MailKit-meta"]
-	path = MailKit-meta
-	url = https://github.com/ethus3h/MailKit-meta.git
 [submodule "moon-1"]
 	path = moon-1
 	url = https://github.com/ethus3h/moon-1.git
