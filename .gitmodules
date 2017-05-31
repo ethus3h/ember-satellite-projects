@@ -79,3 +79,6 @@
 [submodule "warcdealer"]
 	path = warcdealer
 	url = https://github.com/ethus3h/warcdealer.git
+[submodule "compiz-plugins-community"]
+	path = compiz-plugins-community
+	url = https://github.com/ethus3h/compiz-plugins-community.git
