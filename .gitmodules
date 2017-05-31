@@ -76,3 +76,6 @@
 [submodule "ember-shared"]
 	path = ember-shared
 	url = https://github.com/ethus3h/ember-shared.git
+[submodule "warcdealer"]
+	path = warcdealer
+	url = https://github.com/ethus3h/warcdealer.git
