@@ -25,9 +25,6 @@
 [submodule "moon-1"]
 	path = moon-1
 	url = https://github.com/ethus3h/moon-1.git
-[submodule "warcdealer"]
-	path = warcdealer
-	url = https://github.com/ethus3h/warcdealer.git
 [submodule "wreathe-backgrounds"]
 	path = wreathe-backgrounds
 	url = https://github.com/ethus3h/wreathe-backgrounds.git
