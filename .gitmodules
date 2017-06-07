@@ -1,5 +1,5 @@
-[submodule "wreathe"]
-	path = wreathe
+[submodule "wreathe-base"]
+	path = wreathe-base
 	url = https://github.com/ethus3h/wreathe-base.git
 [submodule "personal"]
 	path = personal
