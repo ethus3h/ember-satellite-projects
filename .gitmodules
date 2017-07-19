@@ -85,3 +85,6 @@
 [submodule "compiz-reloaded-overlay"]
 	path = compiz-reloaded-overlay
 	url = https://github.com/ethus3h/compiz-reloaded-overlay.git
+[submodule "curl-phpmyadmin"]
+	path = curl-phpmyadmin
+	url = https://github.com/ethus3h/curl-phpmyadmin.git
