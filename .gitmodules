@@ -88,3 +88,6 @@
 [submodule "curl-phpmyadmin"]
 	path = curl-phpmyadmin
 	url = https://github.com/ethus3h/curl-phpmyadmin.git
+[submodule "jorgan"]
+	path = jorgan
+	url = https://github.com/ethus3h/jorgan.git
