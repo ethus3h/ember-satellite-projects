@@ -97,3 +97,6 @@
 [submodule "node-spotify-downloader"]
 	path = node-spotify-downloader
 	url = https://github.com/ethus3h/node-spotify-downloader.git
+[submodule "wreathe-packages"]
+	path = wreathe-packages
+	url = https://github.com/ethus3h/wreathe-packages.git
