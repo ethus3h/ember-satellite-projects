@@ -1,11 +1,11 @@
 a6bd275fe4864befbd38c4a7b8ca0d5c66d8c07b refs/heads/2017jan21-wtf
 9a2b298ed65b76851ac6fe060c7c3435b6b64c8d refs/heads/2017jan22-dunnowhatthisisabout
 9606ddb4616fdd7a6ff73393c9dc68174366f71c refs/heads/2017jan27wtf
-4e9a4f6991035532c09f96910b9648f6c9a869ac refs/heads/master
+3d409b5f00f5b13dd28119cbce94e039a29fdf9d refs/heads/master
 a6bd275fe4864befbd38c4a7b8ca0d5c66d8c07b refs/remotes/origin/2017jan21-wtf
 9a2b298ed65b76851ac6fe060c7c3435b6b64c8d refs/remotes/origin/2017jan22-dunnowhatthisisabout
 9606ddb4616fdd7a6ff73393c9dc68174366f71c refs/remotes/origin/2017jan27wtf
-faff7a7244c9974845611ec3b7b0c8640bb7e0c3 refs/remotes/origin/HEAD
-faff7a7244c9974845611ec3b7b0c8640bb7e0c3 refs/remotes/origin/master
+3d409b5f00f5b13dd28119cbce94e039a29fdf9d refs/remotes/origin/HEAD
+3d409b5f00f5b13dd28119cbce94e039a29fdf9d refs/remotes/origin/master
 d836391b18746ce8677eb6a4dd4f059a68caf37d refs/tags/wfscan-help/v4.1.1
 8f41fe439ec0fa6ba43e878991daccf425d4ad6a refs/tags/wfscan-help/v4.1.1^{}
