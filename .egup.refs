@@ -1,11 +1,8 @@
 a6bd275fe4864befbd38c4a7b8ca0d5c66d8c07b refs/heads/2017jan21-wtf
 9a2b298ed65b76851ac6fe060c7c3435b6b64c8d refs/heads/2017jan22-dunnowhatthisisabout
 9606ddb4616fdd7a6ff73393c9dc68174366f71c refs/heads/2017jan27wtf
-86a5d55eb04717f82829e72269bd2409e574ea7d refs/heads/master
 a6bd275fe4864befbd38c4a7b8ca0d5c66d8c07b refs/remotes/origin/2017jan21-wtf
 9a2b298ed65b76851ac6fe060c7c3435b6b64c8d refs/remotes/origin/2017jan22-dunnowhatthisisabout
 9606ddb4616fdd7a6ff73393c9dc68174366f71c refs/remotes/origin/2017jan27wtf
-86a5d55eb04717f82829e72269bd2409e574ea7d refs/remotes/origin/HEAD
-86a5d55eb04717f82829e72269bd2409e574ea7d refs/remotes/origin/master
 d836391b18746ce8677eb6a4dd4f059a68caf37d refs/tags/wfscan-help/v4.1.1
 8f41fe439ec0fa6ba43e878991daccf425d4ad6a refs/tags/wfscan-help/v4.1.1^{}
