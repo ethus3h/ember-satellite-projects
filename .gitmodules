@@ -100,3 +100,6 @@
 [submodule "wreathe-packages"]
 	path = wreathe-packages
 	url = https://github.com/ethus3h/wreathe-packages.git
+[submodule "wreathe-conf"]
+	path = wreathe-conf
+	url = https://github.com/ethus3h/wreathe-conf.git
