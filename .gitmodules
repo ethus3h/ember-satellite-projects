@@ -64,9 +64,6 @@
 [submodule "wreathe-bootstrap"]
 	path = wreathe-bootstrap
 	url = https://github.com/ethus3h/wreathe-bootstrap.git
-[submodule "personal-retired-repositories"]
-	path = personal-retired-repositories
-	url = https://github.com/ethus3h/personal-retired-repositories.git
 [submodule "jdownloader"]
 	path = jdownloader
 	url = https://github.com/ethus3h/jdownloader.git
