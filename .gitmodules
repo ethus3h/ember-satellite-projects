@@ -100,3 +100,6 @@
 [submodule "wreathe-conf"]
 	path = wreathe-conf
 	url = https://github.com/ethus3h/wreathe-conf.git
+[submodule "wreathe-web-filters"]
+	path = wreathe-web-filters
+	url = https://github.com/ethus3h/wreathe-web-filters.git
