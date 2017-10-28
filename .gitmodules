@@ -103,3 +103,6 @@
 [submodule "wreathe-web-filters"]
 	path = wreathe-web-filters
 	url = https://github.com/ethus3h/wreathe-web-filters.git
+[submodule "personal-private"]
+	path = personal-private
+	url = https://github.com/ethus3h/personal-private.git
