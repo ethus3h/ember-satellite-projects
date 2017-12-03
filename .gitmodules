@@ -106,3 +106,6 @@
 [submodule "personal-private"]
 	path = personal-private
 	url = https://github.com/ethus3h/personal-private.git
+[submodule "futuramerlin-record-label"]
+	path = futuramerlin-record-label
+	url = https://github.com/ethus3h/futuramerlin-record-label.git
