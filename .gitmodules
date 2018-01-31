@@ -109,3 +109,6 @@
 [submodule "futuramerlin-record-label"]
 	path = futuramerlin-record-label
 	url = https://github.com/ethus3h/futuramerlin-record-label.git
+[submodule "gentoo-wreathe-state"]
+	path = gentoo-wreathe-state
+	url = https://github.com/ethus3h/gentoo-wreathe-state.git
