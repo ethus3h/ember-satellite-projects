@@ -112,3 +112,6 @@
 [submodule "gentoo-wreathe-state"]
 	path = gentoo-wreathe-state
 	url = https://github.com/ethus3h/gentoo-wreathe-state.git
+[submodule "gunmetal-gray"]
+        path = gunmetal-gray
+        url = https://github.com/ethus3h/gunmetal-gray.git
