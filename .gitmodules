@@ -115,3 +115,6 @@
 [submodule "gunmetal-gray"]
         path = gunmetal-gray
         url = https://github.com/ethus3h/gunmetal-gray.git
+[submodule "BeHeMMOth-related-submodules"]
+	path = BeHeMMOth-related-submodules
+	url = https://github.com/ethus3h/BeHeMMOth-related-submodules.git
