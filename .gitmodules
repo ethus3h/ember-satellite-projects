@@ -118,3 +118,6 @@
 [submodule "BeHeMMOth-related-submodules"]
 	path = BeHeMMOth-related-submodules
 	url = https://github.com/ethus3h/BeHeMMOth-related-submodules.git
+[submodule "compiz-cgit-modules"]
+	path = compiz-cgit-modules
+	url = https://github.com/ethus3h/compiz-cgit-modules.git
