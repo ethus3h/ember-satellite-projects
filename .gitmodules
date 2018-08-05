@@ -113,11 +113,17 @@
 	path = gentoo-wreathe-state
 	url = https://github.com/ethus3h/gentoo-wreathe-state.git
 [submodule "gunmetal-gray"]
-        path = gunmetal-gray
-        url = https://github.com/ethus3h/gunmetal-gray.git
+	path = gunmetal-gray
+	url = https://github.com/ethus3h/gunmetal-gray.git
 [submodule "BeHeMMOth-related-submodules"]
 	path = BeHeMMOth-related-submodules
 	url = https://github.com/ethus3h/BeHeMMOth-related-submodules.git
 [submodule "compiz-cgit-modules"]
 	path = compiz-cgit-modules
 	url = https://github.com/ethus3h/compiz-cgit-modules.git
+[submodule "cb-status-elegiac"]
+	path = cb-status-elegiac
+	url = https://github.com/ethus3h/cb-status-elegiac.git
+[submodule "cb-status-remote"]
+	path = cb-status-remote
+	url = https://github.com/ethus3h/cb-status-remote.git
